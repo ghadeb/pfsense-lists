@@ -1,0 +1,17 @@
+officespeech.platform.bing.com	
+*.office.com
+www.microsoft365.com	
+*.microsoftusercontent.com	
+*.azure-apim.net
+*.flow.microsoft.com
+*.powerapps.com
+*.powerautomate.com	
+*.activity.windows.com
+activity.windows.com	
+*.cortana.ai	
+admin.microsoft.com	
+cdn.odc.officeapps.live.com
+cdn.uci.officeapps.live.com	
+*.cloud.microsoft
+*.static.microsoft
+*.usercontent.microsoft	
