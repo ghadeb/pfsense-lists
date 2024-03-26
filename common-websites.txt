@@ -11,3 +11,5 @@ bonreporting.bon.com.na
 *.asseco.com
 *.swift.com
 *.namra.org.na
+www.namra.org.na
+itas.namra.org.na
